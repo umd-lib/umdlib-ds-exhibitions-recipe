@@ -2,7 +2,7 @@
     "name": "umd-lib/umdlib-ds-exhibitions-recipe",
     "type": "drupal-recipe",
     "version": "dev-main",
-    "description": "Basic needs and structure for exhibitions.",
+    "description": "Basic toolkit for exhibitions.",
     "keywords": [
     ],
     "homepage": "https://github.com/umd-lib/",
