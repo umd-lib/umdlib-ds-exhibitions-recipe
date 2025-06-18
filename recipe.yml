@@ -5,4 +5,4 @@ install:
   # Contrib
   - media_folders
   - ui_patterns
-
+  - better_exposed_filters
