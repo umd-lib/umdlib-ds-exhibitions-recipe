@@ -3,6 +3,5 @@ description: 'Basic needs and structure for Exhibitions.'
 type: module
 install:
   # Contrib
-  - media_folders
   - ui_patterns
   - better_exposed_filters
