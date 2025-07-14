@@ -11,8 +11,8 @@
         "source": "https://github.com/umd-lib/umdlib-ds-exhibitions-recipe"
     },
     "require": {
+        "drupal/image_link_formatter": "^2.2",
         "drupal/media_folders": "^1.0",
-        "drupal/linked_field": "^1.7",
         "drupal/ui_patterns": "2.0.x-dev@dev",
         "drupal/better_exposed_filters": "^7.0"
     }
