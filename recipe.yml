@@ -4,4 +4,6 @@ type: module
 install:
   # Contrib
   - media_folders
-
+  - image_link_formatter
+  - ui_patterns
+  - better_exposed_filters
