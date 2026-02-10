@@ -13,7 +13,7 @@
     "require": {
         "drupal/image_link_formatter": "^2.2",
         "drupal/media_folders": "^1.0",
-        "drupal/ui_patterns": "2.0.x-dev@dev",
+        "drupal/ui_patterns": "^2.0",
         "drupal/better_exposed_filters": "^7.0"
     }
 }
